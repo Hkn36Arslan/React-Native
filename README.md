@@ -1,2 +1,2 @@
 # React-Native
-React-Nati çalışmaları eklenecek
+React-Native çalışmaları eklenecek
